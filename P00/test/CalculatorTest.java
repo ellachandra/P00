@@ -77,5 +77,5 @@ public class CalculatorTest {
 		assertEquals(expected, actual);
 	}
 
-	//add smth ig
+	//add smth 
 }
